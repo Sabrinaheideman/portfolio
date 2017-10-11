@@ -183,3 +183,7 @@ ul {
   background: #e3a245;
   padding-top: 1rem;
 }
+
+@media only screen and (min-width: 60em) {
+
+}
